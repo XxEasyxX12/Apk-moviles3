@@ -1,0 +1,7 @@
+{
+  "name": "LoginUSuarioFacebook",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
